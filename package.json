@@ -1,8 +1,16 @@
 {
   "name": "nairobi-busstops-client",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
   "type": "module",
+  "description": "Nairobi Bus Stops Client",
+  "license": "MIT",
+  "author": {
+    "name": "Joseph Kariuki",
+    "url": "https://github.com/jkariuki",
+    "website": "https://josephkariuki.com",
+    "role": "Developer"
+  },
   "scripts": {
     "dev": "vite",
     "build": "vite build",
